@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">1.6PA_ContactsApp</string>
+    <string name="txt_title">Contacts</string>
+
+    <string name="txt_name_1">Alex Stone</string>
+    <string name="txt_address_1">752 Field rd, Germany</string>
+    <string name="txt_phone_number_1">(723) 650 5419</string>
+    <string name="txt_email_1">620rest@gmail.com</string>
+
+    <string name="txt_Alphebet_1">A</string>
+
+    <string name="imageView">MSI DRAGON</string>
+    <string name="imageView3">Alex Stone</string>
+    <string name="imageView2">Alex Stone</string>
+
+    <string name="txt_name_2">Ash Ketchum</string>
+    <string name="txt_address_2">32 chester, Virginia</string>
+    <string name="txt_phone_number_2">(326)777 5532</string>
+    <string name="txt_email_2">keystone@aol.com</string>
+
+    <string name="btn_contact_list">Contacts</string>
+    <string name="btn_contact_list2">Contacts</string>
+    <string name="btn_name_1">Alex Stone </string>
+    <string name="btn_name_2">Ash Ketchum </string>
+</resources>
